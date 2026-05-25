@@ -73,7 +73,7 @@ color:#800020;
 
 <a href="toros_corrida/index_toros_corrida.php">Toros en Corrida</a>
 
-<a href="usuarios/index_usuarios.php">Gestión de Usuarios</a>
+
 
 <a href="logout.php">Cerrar sesión</a>
 

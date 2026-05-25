@@ -52,6 +52,13 @@ background:#f5deb3;
 color:#800020;
 }
 
+a{
+    display:block;
+    text-align:center;
+    margin-top:10px;
+    color:#800020;
+}
+
 .error{
 color:red;
 text-align:center;
@@ -78,6 +85,8 @@ required>
 
 <button type="submit">Entrar</button>
 
+<a href="registro.php">¿No tienes cuenta? Regístrate</a>
+
 <?php
 if(isset($_GET['error'])){
 echo "<p class='error'>Usuario o contraseña incorrectos</p>";
@@ -85,6 +94,7 @@ echo "<p class='error'>Usuario o contraseña incorrectos</p>";
 ?>
 
 </form>
+
 
 </body>
 </html>
