@@ -28,3 +28,8 @@ Incluye datos reales verificados de San Isidro 2024:
 - Toreros del escalafón 2024 (Roca Rey, Talavante, Daniel Luque...)
 - Ganaderías reales (Victorino Martín, Núñez del Cuvillo...)
 - Plazas reales (Las Ventas, La Maestranza, Pamplona...)
+
+## Demo
+- **URL:** https://toromanager.42web.io/
+- **Email:** demo@toromanager.com
+- **Contraseña:** password
