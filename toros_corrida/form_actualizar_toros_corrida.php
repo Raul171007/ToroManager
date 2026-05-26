@@ -83,10 +83,13 @@ color:#800020;
 <label>ID Torero</label>
 <input type="number" name="id_torero" value="<?php echo $fila['id_torero']; ?>" required>
 
-<label>Indultado</label>
+<label>Trofeo</label>
 <select name="indultado">
-<option value="1" <?php if($fila['indultado']==1) echo "selected"; ?>>Sí</option>
-<option value="0" <?php if($fila['indultado']==0) echo "selected"; ?>>No</option>
+<option value="0" <?php if($fila['trofeo']==1) echo "selected"; ?>></option>
+<option value="1" <?php if($fila['trofeo']==1) echo "selected"; ?>>1 Oreja</option>
+<option value="2" <?php if($fila['trofeo']==0) echo "selected"; ?>>2 Orejas</option>
+<option value="2" <?php if($fila['trofeo']==0) echo "selected"; ?>>Rabo</option>
+<option value="2" <?php if($fila['trofeo']==0) echo "selected"; ?>>Indultado</option>
 </select>
 
 <label>Orden de salida</label>

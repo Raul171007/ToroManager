@@ -5,7 +5,7 @@
 session_start();
 
 if(!isset($_SESSION['usuario'])){
-    header("Location: ../login.php");
+    header("Location: login.php");
     exit();
 }
 
@@ -84,10 +84,12 @@ color:#800020;
 <label>ID Torero</label>
 <input type="number" name="id_torero" required>
 
-<label>Indultado</label>
-<select name="indultado">
-<option value="1">Sí</option>
-<option value="0">No</option>
+<label>Trofeo</label>
+<select name="trofeo">
+<option value="1">1 Oreja</option>
+<option value="2">2 orejas</option>
+<option value="3">Rabo</option>
+<option value="4">Indultado</option>
 </select>
 
 <label>Orden de salida</label>
