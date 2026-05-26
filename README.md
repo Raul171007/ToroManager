@@ -32,4 +32,4 @@ Incluye datos reales verificados de San Isidro 2024:
 ## Demo
 - **URL:** https://toromanager.42web.io/
 - **Email:** demo@toromanager.com
-- **Contraseña:** password
+- **Contraseña:** 1234
