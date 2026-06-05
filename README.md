@@ -1,7 +1,6 @@
 # 🐂 ToroManager
 
 Aplicación web de gestión taurina desarrollada con PHP y MySQL.
-Demo online disponible en: https://toromanager.42web.io/
 
 ## Tecnologías
 - PHP
@@ -30,6 +29,10 @@ Incluye datos reales verificados de San Isidro 2024:
 - Plazas reales (Las Ventas, La Maestranza, Pamplona...)
 
 ## Demo
-- **URL:** https://toromanager.42web.io/
+- [Demo](https://toromanager.42web.io/)
 - **Email:** demo@gmail.com
 - **Contraseña:** 1234
+
+## Autor
+
+**Raul171007** — [GitHub](https://github.com/Raul171007) · [Fiverr](https://es.fiverr.com/markestins)
